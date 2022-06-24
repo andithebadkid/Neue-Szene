@@ -1,0 +1,11 @@
+Model Information:
+* title:	Octahedron-plus-Twins-of-Twins
+* source:	https://sketchfab.com/3d-models/octahedron-plus-twins-of-twins-17897e82c1494d96b149f0810dae16e5
+* author:	jjkostick (https://sketchfab.com/jjkostick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Octahedron-plus-Twins-of-Twins" (https://sketchfab.com/3d-models/octahedron-plus-twins-of-twins-17897e82c1494d96b149f0810dae16e5) by jjkostick (https://sketchfab.com/jjkostick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
