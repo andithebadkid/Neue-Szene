@@ -1,0 +1,11 @@
+Model Information:
+* title:	Icosatrihedron With 3 Affine Heptagons
+* source:	https://sketchfab.com/3d-models/icosatrihedron-with-3-affine-heptagons-45ca81e452204ff49027ceb58ef9b458
+* author:	David Hall (https://sketchfab.com/davidhall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Icosatrihedron With 3 Affine Heptagons" (https://sketchfab.com/3d-models/icosatrihedron-with-3-affine-heptagons-45ca81e452204ff49027ceb58ef9b458) by David Hall (https://sketchfab.com/davidhall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
