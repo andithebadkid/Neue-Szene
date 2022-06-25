@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dodecaedro
+* source:	https://sketchfab.com/3d-models/dodecaedro-7a622f3b0f974ae58bca9fafd7f42263
+* author:	lauselfe (https://sketchfab.com/miyulauri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dodecaedro" (https://sketchfab.com/3d-models/dodecaedro-7a622f3b0f974ae58bca9fafd7f42263) by lauselfe (https://sketchfab.com/miyulauri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
